@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DeviLEra56
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DeviLEra56/DeviLEra56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @DeviLEra56-Ankit kumar
+2
+- 👀 I’m interested in Data science,python,ML,Robotics,AI
+3
+- 🌱 I’m currently learning Automation,ML algorithms and Web Designing
+4
+- 💞️ I’m looking to collaborate on Python projects including ML projects
+5
+- 📫 mail me at- anksun56@gmail.com 
